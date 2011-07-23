@@ -1,0 +1,15 @@
+<br />
+<br />
+<div id="sig" style="line-height: 18px; margin: 6px 0; padding: 8px; border-top: 1px #999999 dotted; border-bottom: 1px #999999 dotted; font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif; font-size: 12px; color: #999999; " >
+		<a href="http://urbanapps.com" title="urbanapps.com"><img src="http://.../images/logo_noshad_80.png" alt="Urban Apps" style="float: left; padding: 2px 6px 0 0;"></a>
+		<div style="padding: 6px 0 0 0">
+			<span style="font-size:14px"><strong style="color: #333333">Matt Coneybeare</strong>, Founder</span><br />
+			<strong><a href="http://urbanapps.com" title="urbanapps.com" style="color: #666666; text-decoration: none; border-bottom: 1px #cccccc dotted;">Urban Apps, LLC</a></strong><br />
+			PO Box 765, Centereach, New York, 11720, U.S.A. | Telephone: 347.688.7226 | Fax: 631.615.6716<br />
+			
+			<a href="http://twitter.com/urbanapps"><img src="http://.../images/social/twitter_16.png" alt="Twitter" style="float: left; margin: 2px 4px 0 0;"></a>
+			<a href="http://facebook.com/urbanapps"><img src="http://.../images/social/facebook_16.png" alt="Facebook" style="float: left; margin: 2px 4px 0 0;"></a>
+			<a href="http://www.linkedin.com/in/coneybeare"><img src="http://.../images/social/linkedin_16.png" alt="Linked In" style="float: left; margin: 2px 4px 0 0;"></a>
+		</div>
+		<div style="clear:both"></div>
+</div>
